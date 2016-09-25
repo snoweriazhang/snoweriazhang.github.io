@@ -109,7 +109,8 @@ h1{
 
 #headerwrap {
 	background: url(../img/back.jpg) no-repeat center top;
-	margin-top: -70px;
+
+	margin-top: -10px;
 	padding-top: 250px;
 	text-align:center;
 	background-attachment: relative;
