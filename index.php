@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="Snoweria Zhang's Online Portfolio." content="">
+    <meta name="Snoweria Zhang" content="">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
     <title>Snoweria Zhang | Online Portfolio</title>
@@ -41,7 +41,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.html">SNOWERIA ZHANG</a>
+          <a class="navbar-brand" href="index.php">SNOWERIA ZHANG</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
@@ -101,6 +101,7 @@
 		</div><! --/row -->
 	</div><! --/container -->
 
+<!--
 	<div id="social">
 		<div class="container">
 			<div class="row centered">
@@ -123,8 +124,8 @@
 					<a href="#"><i class="fa fa-tumblr"></i></a>
 				</div>
 
-			</div><! --/row -->
-		</div><! --/container -->
+			</div>
+		</div>
 	</div><! --/social -->
 
 	<div id="footerwrap">
@@ -135,8 +136,10 @@
 				</div>
 
 				<div class="col-lg-4">
-					<p>Living in Boston.</p>
-				</div>
+					<!--<p>Living in Boston.</p>-->
+          <a href="https://www.instagram.com/snowyarea/" target="_blank"><i class="fa fa-instagram"></i></a>&nbsp;&nbsp;
+          <a href="https://www.linkedin.com/in/snoweria-zhang-aa537245" target="_blank"><i class="fa fa-linkedin"></i></a>
+        </div>
 				<div class="col-lg-4">
 					<p>snoweriazhang@gmail.com</p>
 				</div>

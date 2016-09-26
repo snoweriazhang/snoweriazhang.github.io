@@ -171,6 +171,14 @@ h1{
 	margin-left: 10px;
 }
 
+.col-lg-4 a{
+  color:#ffffff;
+}
+
+.col-lg-4 a:hover{
+  text-decoration: none;
+}
+
 #workwrap {
 	background: url(../img/work.jpg) no-repeat center top;
 	margin-top: -70px;
@@ -207,6 +215,7 @@ h1{
 }
 
 #aboutwrap {
+
 	background: url(../img/about.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
