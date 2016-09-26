@@ -67,39 +67,41 @@
 	</div><! --/headerwrap -->
 
 	<section id="works"></section>
-	<div class="container">
-		<div class="row centered mt mb">
-			<h1>Portfolio</h1>
+  <div id="content">
+  	<div class="container">
+  		<div class="row centered mt mb">
+  			<h1>Portfolio</h1>
 
-			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-				<a href="work.html"><img src="assets/img/portfolio/folio01.jpg" class="img-responsive"></a>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-				<a href="work.html"><img src="assets/img/portfolio/folio02.jpg" class="img-responsive"></a>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-				<a href="work.html"><img src="assets/img/portfolio/folio03.jpg" class="img-responsive"></a>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-				<a href="work.html"><img src="assets/img/portfolio/folio04.jpg" class="img-responsive"></a>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-				<a href="work.html"><img src="assets/img/portfolio/folio05.jpg" class="img-responsive"></a>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-				<a href="work.html"><img src="assets/img/portfolio/folio06.jpg" class="img-responsive"></a>
-			</div>
-      <div class="col-lg-4 col-md-4 col-sm-4 gallery">
-				<a href="work.html"><img src="assets/img/portfolio/folio07.jpg" class="img-responsive"></a>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-				<a href="work.html"><img src="assets/img/portfolio/folio08.jpg" class="img-responsive"></a>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-				<a href="work.html"><img src="assets/img/portfolio/folio09.jpg" class="img-responsive"></a>
-			</div>
-		</div><! --/row -->
-	</div><! --/container -->
+  			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
+  				<a href="work.html"><img src="assets/img/portfolio/folio01.jpg" class="img-responsive"></a>
+  			</div>
+  			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
+  				<a href="work.html"><img src="assets/img/portfolio/folio02.jpg" class="img-responsive"></a>
+  			</div>
+  			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
+  				<a href="work.html"><img src="assets/img/portfolio/folio03.jpg" class="img-responsive"></a>
+  			</div>
+  			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
+  				<a href="work.html"><img src="assets/img/portfolio/folio04.jpg" class="img-responsive"></a>
+  			</div>
+  			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
+  				<a href="work.html"><img src="assets/img/portfolio/folio05.jpg" class="img-responsive"></a>
+  			</div>
+  			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
+  				<a href="work.html"><img src="assets/img/portfolio/folio06.jpg" class="img-responsive"></a>
+  			</div>
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+  				<a href="work.html"><img src="assets/img/portfolio/folio07.jpg" class="img-responsive"></a>
+  			</div>
+  			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
+  				<a href="work.html"><img src="assets/img/portfolio/folio08.jpg" class="img-responsive"></a>
+  			</div>
+  			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
+  				<a href="work.html"><img src="assets/img/portfolio/folio09.jpg" class="img-responsive"></a>
+  			</div>
+  		</div><! --/row -->
+  	</div><! --/container -->
+  </div>
 
 <!--
 	<div id="social">
