@@ -212,11 +212,17 @@ h1{
 	letter-spacing: 4px;
 	font-size: 50px;
 	font-weight: bold;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 #workwrap h4 {
 	font-weight: 400;
 	color: #ffffff
+}
+
+p{
+  font-weight: 400;
+  text-align: left;
 }
 
 #aboutwrap {
