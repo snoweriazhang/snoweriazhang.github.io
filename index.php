@@ -85,7 +85,7 @@
   				<a href="work.html"><img src="assets/img/portfolio/folio04.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work.html"><img src="assets/img/portfolio/folio05.jpg" class="img-responsive"></a>
+  				<a href="work/howie/"><img src="assets/img/portfolio/howie.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
   				<a href="work.html"><img src="assets/img/portfolio/folio06.jpg" class="img-responsive"></a>
