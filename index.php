@@ -73,31 +73,31 @@
   			<h1>Portfolio</h1>
 
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work.html"><img src="assets/img/portfolio/folio01.jpg" class="img-responsive"></a>
+  				<a href="work/purification/"><img src="assets/img/portfolio/purification.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work.html"><img src="assets/img/portfolio/folio02.jpg" class="img-responsive"></a>
+  				<a href="work/risk/"><img src="assets/img/portfolio/risk.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work.html"><img src="assets/img/portfolio/folio03.jpg" class="img-responsive"></a>
+  				<a href="work/mca/"><img src="assets/img/portfolio/mca.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work.html"><img src="assets/img/portfolio/folio04.jpg" class="img-responsive"></a>
+  				<a href="work/emerald/"><img src="assets/img/portfolio/emerald.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
   				<a href="work/howie/"><img src="assets/img/portfolio/howie.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work.html"><img src="assets/img/portfolio/folio06.jpg" class="img-responsive"></a>
+  				<a href="work/staircase/"><img src="assets/img/portfolio/staircase.jpg" class="img-responsive"></a>
   			</div>
         <div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work.html"><img src="assets/img/portfolio/folio07.jpg" class="img-responsive"></a>
+  				<a href="work/odalisque/"><img src="assets/img/portfolio/odalisque.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work.html"><img src="assets/img/portfolio/folio08.jpg" class="img-responsive"></a>
+  				<a href="work/kenmore/"><img src="assets/img/portfolio/kenmore.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work.html"><img src="assets/img/portfolio/folio09.jpg" class="img-responsive"></a>
+  				<a href="work/mx/"><img src="assets/img/portfolio/mx.jpg" class="img-responsive"></a>
   			</div>
   		</div><! --/row -->
   	</div><! --/container -->
