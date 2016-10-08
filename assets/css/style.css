@@ -265,6 +265,27 @@ p{
 	margin-top: 5px;
 }
 
-.gallery img:hover {
+.gallery{
+  position: relative;
+}
+
+.gallery a:hover img{
 	opacity: 0.4;
+}
+
+.gallery h2{
+  font-family: 'Josefin Slab', serif;
+  font-size: 18pt;
+  position: absolute;
+  top: 35%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.gallery a:hover h2{
+  visibility:visible;
+  opacity: 1;
 }

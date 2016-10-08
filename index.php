@@ -73,31 +73,32 @@
   			<h1>Portfolio</h1>
 
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/purification/"><img src="assets/img/portfolio/purification.jpg" class="img-responsive"></a>
+
+  				<a href="work/purification/"><h2>Progressive Purification</h2><img src="assets/img/portfolio/purification.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/risk/"><img src="assets/img/portfolio/risk.jpg" class="img-responsive"></a>
+  				<a href="work/risk/"><h2>Risk City</h2><img src="assets/img/portfolio/risk.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/mca/"><img src="assets/img/portfolio/mca.jpg" class="img-responsive"></a>
+  				<a href="work/mca/"><h2>MCA Chicago Extension</h2><img src="assets/img/portfolio/mca.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/emerald/"><img src="assets/img/portfolio/emerald.jpg" class="img-responsive"></a>
+  				<a href="work/emerald/"><h2>Emerald Necklace Library</h2><img src="assets/img/portfolio/emerald.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/howie/"><img src="assets/img/portfolio/howie.jpg" class="img-responsive"></a>
+  				<a href="work/howie/"><h2>Howie the Rookie</h2><img src="assets/img/portfolio/howie.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/staircase/"><img src="assets/img/portfolio/staircase.jpg" class="img-responsive"></a>
+  				<a href="work/staircase/"><h2>Memory of a Staircase</h2><img src="assets/img/portfolio/staircase.jpg" class="img-responsive"></a>
   			</div>
         <div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/odalisque/"><img src="assets/img/portfolio/odalisque.jpg" class="img-responsive"></a>
+  				<a href="work/odalisque/"><h2>La Morte Odalisque</h2><img src="assets/img/portfolio/odalisque.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/kenmore/"><img src="assets/img/portfolio/kenmore.jpg" class="img-responsive"></a>
+  				<a href="work/kenmore/"><h2>Kenmore Square Archive</h2><img src="assets/img/portfolio/kenmore.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/mx/"><img src="assets/img/portfolio/mx.jpg" class="img-responsive"></a>
+  				<a href="work/mx/"><h2>Maron & Xaloo</h2><img src="assets/img/portfolio/mx.jpg" class="img-responsive"></a>
   			</div>
   		</div><! --/row -->
   	</div><! --/container -->
