@@ -183,7 +183,9 @@ h1{
 
 #workwrap {
   position: relative;
-	background: url(../img/work.jpg) no-repeat center top;
+	background-image: url(../img/work.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -222,7 +224,7 @@ h1{
 
 p{
   font-weight: 400;
-  
+
 }
 
 #aboutwrap {
