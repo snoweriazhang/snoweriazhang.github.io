@@ -92,16 +92,19 @@
   				<a href="work/cop22/"><h2>COP 22</h2><img src="assets/img/portfolio/cop22.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/painting/"><h2>Paintings</h2><img src="assets/img/portfolio/staircase.jpg" class="img-responsive"></a>
-  			</div>
-        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/drawings/"><h2>Drawings</h2><img src="assets/img/portfolio/odalisque.jpg" class="img-responsive"></a>
-  			</div>
-  			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
   				<a href="work/kenmore/"><h2>Kenmore Square Archive</h2><img src="assets/img/portfolio/kenmore.jpg" class="img-responsive"></a>
   			</div>
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+          <a href="work/computational/"><h2>Computational Design</h2><img src="assets/img/portfolio/computational.jpg" class="img-responsive"></a>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+          <a href="work/drawings/"><h2>Drawings</h2><img src="assets/img/portfolio/odalisque.jpg" class="img-responsive"></a>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+          <a href="work/painting/"><h2>Paintings</h2><img src="assets/img/portfolio/staircase.jpg" class="img-responsive"></a>
+        </div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/mx/"><h2>Maron & Xaloo</h2><img src="assets/img/portfolio/mx.jpg" class="img-responsive"></a>
+  				<a href="work/illustrations/"><h2>Illustrations</h2><img src="assets/img/portfolio/mx.jpg" class="img-responsive"></a>
   			</div>
   		</div><! --/row -->
   	</div><! --/container -->
