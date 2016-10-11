@@ -71,9 +71,10 @@
   	<div class="container">
   		<div class="row centered mt mb">
   			<h1>Portfolio</h1>
-
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+          <a href="work/thesis/"><h2>Thesis: Through Sick and Sane</h2><img src="assets/img/portfolio/thesis.jpg" class="img-responsive"></a>
+        </div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-
   				<a href="work/purification/"><h2>Progressive Purification</h2><img src="assets/img/portfolio/purification.jpg" class="img-responsive"></a>
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
@@ -84,9 +85,6 @@
   			</div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
   				<a href="work/emerald/"><h2>Emerald Necklace Library</h2><img src="assets/img/portfolio/emerald.jpg" class="img-responsive"></a>
-  			</div>
-  			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/howie/"><h2>Howie the Rookie</h2><img src="assets/img/portfolio/howie.jpg" class="img-responsive"></a>
   			</div>
         <div class="col-lg-4 col-md-4 col-sm-4 gallery">
   				<a href="work/cop22/"><h2>COP 22</h2><img src="assets/img/portfolio/cop22.jpg" class="img-responsive"></a>
@@ -100,6 +98,9 @@
         <div class="col-lg-4 col-md-4 col-sm-4 gallery">
           <a href="work/cleanin/"><h2>CleanIn</h2><img src="assets/img/portfolio/cleanin.jpg" class="img-responsive"></a>
         </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+  				<a href="work/howie/"><h2>Howie the Rookie</h2><img src="assets/img/portfolio/howie.jpg" class="img-responsive"></a>
+  			</div>
         <div class="col-lg-4 col-md-4 col-sm-4 gallery">
           <a href="work/drawings/"><h2>Drawings</h2><img src="assets/img/portfolio/odalisque.jpg" class="img-responsive"></a>
         </div>
