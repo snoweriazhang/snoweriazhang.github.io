@@ -102,6 +102,12 @@
   				<a href="work/howie/"><h2>Howie the Rookie</h2><img src="assets/img/portfolio/howie.jpg" class="img-responsive"></a>
   			</div>
         <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+  				<a href="work/balcony/"><h2>The Balcony</h2><img src="assets/img/portfolio/balcony.jpg" class="img-responsive"></a>
+  			</div>
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+  				<a href="work/crave/"><h2>Crave</h2><img src="assets/img/portfolio/crave.jpg" class="img-responsive"></a>
+  			</div>
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
           <a href="work/drawings/"><h2>Drawings</h2><img src="assets/img/portfolio/odalisque.jpg" class="img-responsive"></a>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-4 gallery">
