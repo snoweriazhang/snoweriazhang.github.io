@@ -99,6 +99,15 @@
           <a href="work/cleanin/"><h2>CleanIn</h2><img src="assets/img/portfolio/cleanin.jpg" class="img-responsive"></a>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+  				<a href="work/hotel/"><h2>Chicago Hotel</h2><img src="assets/img/portfolio/hotel.jpg" class="img-responsive"></a>
+  			</div>
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+          <a href="work/gym/"><h2>Brookline Gym</h2><img src="assets/img/portfolio/gym.jpg" class="img-responsive"></a>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+          <a href="work/openletters/"><h2>Open Letters</h2><img src="assets/img/portfolio/openletters.jpg" class="img-responsive"></a>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
   				<a href="work/howie/"><h2>Howie the Rookie</h2><img src="assets/img/portfolio/howie.jpg" class="img-responsive"></a>
   			</div>
         <div class="col-lg-4 col-md-4 col-sm-4 gallery">
@@ -116,6 +125,7 @@
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
   				<a href="work/illustrations/"><h2>Illustrations</h2><img src="assets/img/portfolio/mx.jpg" class="img-responsive"></a>
   			</div>
+        z
   		</div><! --/row -->
   	</div><! --/container -->
   </div>
