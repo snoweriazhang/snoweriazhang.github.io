@@ -125,7 +125,7 @@
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
   				<a href="work/illustrations/"><h2>Illustrations</h2><img src="assets/img/portfolio/mx.jpg" class="img-responsive"></a>
   			</div>
-        z
+        
   		</div><! --/row -->
   	</div><! --/container -->
   </div>
