@@ -123,9 +123,9 @@
           <a href="work/painting/"><h2>Paintings</h2><img src="assets/img/portfolio/staircase.jpg" class="img-responsive"></a>
         </div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
-  				<a href="work/illustrations/"><h2>Illustrations</h2><img src="assets/img/portfolio/mx.jpg" class="img-responsive"></a>
+  				<a href="work/illustration/"><h2>Illustrations</h2><img src="assets/img/portfolio/mx.jpg" class="img-responsive"></a>
   			</div>
-        
+
   		</div><! --/row -->
   	</div><! --/container -->
   </div>
