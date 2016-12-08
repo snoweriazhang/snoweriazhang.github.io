@@ -58,7 +58,7 @@
 	    <div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-lg-offset-3">
-					<h4>HELLO FRIENDS! MY NAME IS</h4>
+					<h4>HELLO! MY NAME IS</h4>
 					<h1>SNOWERIA ZHANG</h1>
 					<h4>I'M A DESIGNER, ILLUSTRATOR & MATHEMATICIAN</h4>
 				</div>
