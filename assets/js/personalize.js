@@ -24,8 +24,11 @@ $(document).ready(function(){
 	});
 
 	var bg_num = Math.ceil(Math.random()*6);
+	var window_height = $(window).height();
 
-	$('#headerwrap').css('background-image', 'url(assets/img/back'+bg_num+'.jpg)');
+	$('#headerwrap').css('background-image', 'url(assets/img/back'+bg_num+'.jpg)').css('min-height',window_height+20);
+
+
 	//$("#headerwrap").css("width", '20%');
 
 
