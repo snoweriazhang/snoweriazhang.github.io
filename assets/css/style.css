@@ -42,7 +42,15 @@
 }
 
 .centered {
-	text-align: center
+	text-align: center;
+
+}
+
+#headshot{
+  display: block;
+  margin:auto;
+  padding-bottom: 20px;
+  padding-top: 10px;
 }
 
 .mt {
