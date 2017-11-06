@@ -11,9 +11,9 @@ $(document).ready(function(){
 		$('#aboutwrap').css('top',$top+'px');
 		$('#workwrap').css('top',$top+'px');
 /*
-		$('#headerwrap').css('-webkit-transform', 'translateY(0)');
-		$('#headerwrap').css('-moz-transform', 'translateY(0');
-		$('#headerwrap').css('-ms-transform', 'translateY(0');
+		$('#headerwrap').css('-webkit-transform', 'translateY('+ ($top) +'px)');
+		$('#headerwrap').css('-moz-transform', 'translateY('+ ($top) +'px)');
+		$('#headerwrap').css('-ms-transform', 'translateY('+ ($top) +'px)');
 
 
 		$('#aboutwrap').css('-webkit-transform', 'translateY('+ ($top) +'px)');
@@ -25,8 +25,8 @@ $(document).ready(function(){
     	$('#workwrap').css('-webkit-transform', 'translateY('+ ($top) +'px)');
 		$('#workwrap').css('-moz-transform', 'translateY('+ ($top) +'px)');
 		$('#workwrap').css('-ms-transform', 'translateY('+ ($top) +'px)');
-
-		*/
+*/
+		
 	});
 
 
