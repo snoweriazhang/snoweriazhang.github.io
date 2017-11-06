@@ -154,6 +154,10 @@ h1{
 	color: #ffffff
 }
 
+#site_title{
+  opacity:0;
+}
+
 #social {
 	padding-top: 50px;
 	padding-bottom: 50px;

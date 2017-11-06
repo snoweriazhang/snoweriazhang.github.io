@@ -57,13 +57,13 @@
 
 	<div id="headerwrap">
 	    <div class="container">
-			<div class="row">
-				<div class="col-lg-6 col-lg-offset-3">
-					<h4>HELLO! MY NAME IS</h4>
-					<h1>SNOWERIA ZHANG</h1>
-					<h4>I'M A DESIGNER, ILLUSTRATOR & MATHEMATICIAN</h4>
-				</div>
-			</div><! --/row -->
+  			<div class="row">
+  				<div class="col-lg-6 col-lg-offset-3" id="site_title">
+  					<h4>HELLO! MY NAME IS</h4>
+  					<h1>SNOWERIA ZHANG</h1>
+  					<h4>I'M A DESIGNER, ILLUSTRATOR & MATHEMATICIAN</h4>
+  				</div>
+  			</div><! --/row -->
 	    </div> <!-- /container -->
 	</div><! --/headerwrap -->
 
