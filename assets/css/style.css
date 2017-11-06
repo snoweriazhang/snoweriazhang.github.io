@@ -236,7 +236,8 @@ h1{
 
 p{
   font-weight: 400;
-
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 #aboutwrap {
