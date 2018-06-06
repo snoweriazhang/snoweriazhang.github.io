@@ -5,8 +5,8 @@ $(document).ready(function(){
 	//$(window).scroll(function(){
 
 	$(window).bind('scroll', function(e) {
-		$top = $(window).scrollTop()/1.3;
 
+		$top = $(window).scrollTop()/1.3;
 		$('#headerwrap').css('top',$top+'px');
 		$('#aboutwrap').css('top',$top+'px');
 		$('#workwrap').css('top',$top+'px');
