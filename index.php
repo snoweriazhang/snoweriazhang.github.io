@@ -73,6 +73,15 @@
   		<div class="row centered mt mb">
   			<h1>Portfolio</h1>
         <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+          <a href="https://jods.mitpress.mit.edu/pub/snoweriazhang" target="_blank"><h2>Journal of Design and Science</h2><img src="assets/img/portfolio/jods.jpg" class="img-responsive"></a>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+          <a href="http://lonesomewhales.com" target="_blank"><h2>Lonesome Whales Comic</h2><img src="assets/img/portfolio/lonesomewhales.jpg" class="img-responsive"></a>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
+          <a href="work/nature/"><h2>Nature Cover: Minimum Fleet</h2><img src="assets/img/portfolio/nature.jpg" class="img-responsive"></a>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 gallery">
           <a href="work/thesis/"><h2>Thesis: Through Sick and Sane</h2><img src="assets/img/portfolio/thesis.jpg" class="img-responsive"></a>
         </div>
   			<div class="col-lg-4 col-md-4 col-sm-4 gallery">
