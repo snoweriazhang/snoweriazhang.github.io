@@ -32,7 +32,7 @@
 				<section data-background="../assets/img/back4.jpg" id="cover">
 					<h4>HELLO! MY NAME IS</h4>
 					<h1>SNOWERIA ZHANG</h1>
-					<h4>I'M A DESIGNER, ILLUSTRATOR & MATHEMATICIAN</h4>
+					<h4>I'M A DESIGNER, ARTIST, WRITER & MATHEMATICIAN</h4>
 				</section>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -86,10 +86,17 @@
 				</section>
 
 				<section data-background="#222">
-					equations
+					$$ R_{eco} = r_{flood}\cdot \alpha_{b} \cdot P_{65} \cdot \frac{\sum\alpha_{p}}{p} $$
+					<br /> 
+					<h4>where </h4>
+					$$r_{flood}\in (0,1)$$
+					$$\alpha_{building}\geq 0$$
+					...
 				</section>
 
-				<section data-background="../work/risk/architecture_ecological_map.jpg" data-background-size="contain">
+				<section data-background="#222">
+					<h6>ECOLOGICAL RISK = </h6>
+					<h4>(FLOOD ZONE) &times; (BUILDING AGE) &times; (POPULATION > 65) &times; (MEDIAN AGE)</h4>
 				</section>
 
 				<section data-background="../work/risk/architecture_ecological_map2.jpg" data-background-size="contain">
@@ -97,6 +104,24 @@
 
 				<section data-background="../work/risk/architecture_ecological-map.jpg" data-background-size="contain">
 				</section>
+
+					<section data-background="#222">
+					$$ R_{hist} = \gamma\cdot \rho \cdot \frac{i_{hist}+i_{land}}{2} $$
+					<br /> 
+					<h4>where </h4>
+					$$i_{hist}, i_{land}\in (0,1)$$
+					$$\gamma \in \mathbb{R}$$
+					...
+				</section>
+
+				<section data-background="#222">
+					<h6>HISTORIC RISK = </h6>
+					<h4>(REAL ESTATE VALUE &times; POPULATION DENSITY) &times; [(HISTORIC DISTRICT + LANDMARK STATUS)] / 2</h4>
+				</section>
+
+				<section data-background="../work/risk/architecture_ecological_map.jpg" data-background-size="contain">
+				</section>
+
 
 				<section data-background="../work/risk/architecture_social_map.jpg" data-background-size="contain">
 				</section>
@@ -173,6 +198,9 @@
 				<section data-background="../work/nature/option_1.jpg" data-background-size="contain">
 				</section>
 
+				<section data-background="../work/scl/broadway.jpg" data-background-size="contain">
+				</section>
+
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -233,7 +261,6 @@
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
-
 				<section data-background="#a9bcc2">
 					<h1>LONESOME WHALES</h1>
 					<h4>lonesomewhales.com</h4>
@@ -246,7 +273,21 @@
 				</section>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+				
 
+				<section data-background="../work/drawings/drawing_odalisque.jpg" data-background-size="contain">
+				</section>
+
+
+				<section data-background="../work/painting/stair_gordie.jpg" data-background-size="contain">
+				</section>
+
+				<section data-background="../work/painting/self_cropped.png" data-background-size="contain">
+				</section>
+
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 			</div>
@@ -265,7 +306,14 @@
 				transitionSpeed: 'fast',
 				backgroundTransition: 'fade',
 
+				math: {
+					mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+					config: 'TeX-AMS_HTML-full'  // See http://docs.mathjax.org/en/latest/config-files.html
+				},
+
 				dependencies: [
+
+					{ src: 'plugin/math/math.js', async: true },
 					{ src: 'plugin/markdown/marked.js' },
 					{ src: 'plugin/markdown/markdown.js' },
 					{ src: 'plugin/notes/notes.js', async: true },
