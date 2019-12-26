@@ -1,4 +1,4 @@
 AuthType Basic  
 AuthName "restricted area"  
-AuthUserFile /app/toDaniel/.htpasswd  
+AuthUserFile /app/toDaniel/dates.json.htpasswd  
 require valid-user
