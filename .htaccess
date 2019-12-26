@@ -1,4 +1,0 @@
-AuthType Basic  
-AuthName "restricted area"  
-AuthUserFile /app/toDaniel/.htpasswd  
-require valid-user
