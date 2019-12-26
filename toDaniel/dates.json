@@ -1,0 +1,784 @@
+{
+   "date": [
+       {
+           "time": "2018-07-23",
+           "location": "Clover",
+           "city": "Boston",
+           "description": "Our very first date. I got stung by a bee. You thought I never wanted to see you again."
+       },
+       {
+           "time": "2018-08-14",
+           "location": "Esplanade",
+           "city": "Boston",
+           "description": "We walked along the esplanade. You told me about aphantasia. I liked the way you smelled. It felt like we had been friends for a long time."
+       },
+       {
+           "time": "2018-08-21",
+           "location": "East Boston",
+           "city": "Boston",
+           "description": "We biked to East Boston for pie but had Indian food instead. You asked to not spend the night alone. I said I needed to think. In retrospect, I wish I would have kissed you then."
+       },
+       {
+           "time": "2018-08-26",
+           "location": "Kendall Cinema",
+           "city": "Boston",
+           "description": "We saw We the Animals and got a drink at Loyal Nine. I asked you to walk me home. You didn't think I'd want you, so you didn't shave. We ran into the woman who was lost. You said watching me orgasm was beautiful."
+       },
+       {
+           "time": "2018-09-14",
+           "location": "Celeste",
+           "city": "Boston",
+           "description": "How did we manage to not see each other for so long? The next morning, as we lazed around in the morning light, you said you could just spend all day in bed with me."
+       },
+       {
+           "time": "2018-09-17",
+           "location": "Clover",
+           "city": "Boston",
+           "description": "I left my earrings at your house. You wanted to give them back, but you really just wanted to see me again, didn't you?"
+       },
+       {
+           "time": "2018-09-19",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "I was sick. You made me soup. We watched Blue is the Warmest Color."
+       },
+       {
+           "time": "2018-09-28",
+           "location": "ICA",
+           "city": "Boston",
+           "description": "We saw 'We Wanted a Revolution.' I read you my poem on the steps. Oh the subway, you held my hand for the first time."
+       },
+       {
+           "time": "2018-09-30",
+           "location": "Harvard",
+           "city": "Boston",
+           "description": "We made out on the Carpenter Center terrace and in the labyrinth by the Divinity School. I wore a cropped top so you could slide your hands under."
+       },
+       {
+           "time": "2018-10-14",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "I came back from Europe. You were going to San Diego. You brought me a pie. I thought the pie pan said 'I love you.'"
+       },
+       {
+           "time": "2018-10-21",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "I was glad to have you back from San Diego. you had a cute, white sweater on."
+       },
+       {
+           "time": "2018-10-26",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "We watched Anna Karenina."
+       },
+       {
+           "time": "2018-11-01",
+           "location": "Life Alive",
+           "city": "Boston",
+           "description": "We had lunch at Life Alive. You told me about why human height was normally distributed. I thought that, even if we were to never see each other again, I'd always have that neat little piece of information."
+       },
+       {
+           "time": "2018-11-02",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "We drew together for the first time. You wanted to talk about our relationship, so we stayed up until 6am, talking, slept for 4 hours, then stayed in bed talking until 6pm. It felt surreal."
+       },
+       {
+           "time": "2018-11-06",
+           "location": "North End",
+           "city": "Boston",
+           "description": "We took a walk through the North End in the rain. When we took an unexpected turn, you said, 'I have to get you used to walking aimlessly, so one day, when I propose, you won't suspect it.' You were sad that I was going to Atlanta, even though I was only leaving for four days."
+       },
+       {
+           "time": "2018-11-11",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "I came back from Atlanta. We made tomato soup and scallion pancakes."
+       },
+       {
+           "time": "2018-11-15",
+           "location": "Gardner Museum",
+           "city": "Boston",
+           "description": "We went to the Gardner, and it was your first time."
+       },
+       {
+           "time": "2018-11-17",
+           "location": "MIT + CPL",
+           "city": "Boston",
+           "description": "We went to the Laughing Room. Louis and Lea wanted to spy on us (they didn't), but we did run into Arcturus."
+       },
+       {
+           "time": "2018-11-21",
+           "location": "MFA + Cherry",
+           "city": "Boston",
+           "description": "We tried to go to the MFA for the Winnie the Pooh exhibit. It was closed, so you fed me homemade pasta instead."
+       },
+       {
+           "time": "2018-11-30",
+           "location": "Coop Warehouse Sale",
+           "city": "Boston",
+           "description": "We got some excellent books from the warehouse sale."
+       },
+       {
+           "time": "2018-12-07",
+           "location": "Downtown",
+           "city": "Boston",
+           "description": "We went to a Hanukkah Bar for festive drinks. I kissed you across a table. It was the moment you realized how kissy I get when I'm drunk."
+       },
+       {
+           "time": "2018-12-09",
+           "location": "Red Cross",
+           "city": "Boston",
+           "description": "We donated blood. You almost fainted and thought everyone's name was Daniel. I laughed, and everyone there thought I was maniacal."
+       },
+       {
+           "time": "2018-12-15",
+           "location": "ICA",
+           "city": "Boston",
+           "description": "We went with Sol to the William Forsythe exhibition."
+       },
+       {
+           "time": "2018-12-20",
+           "location": "Someville Theater",
+           "city": "Boston",
+           "description": "We saw the Slutcracker with my roommates. We gave each other our first Christmas presents. I was amazed by how uniquely thoughtful the giraffe was."
+       },
+       {
+           "time": "2018-12-22",
+           "location": "Union Sqare Donuts",
+           "city": "Boston",
+           "description": "You left your shoes at my house, so we decided to have some donuts."
+       },
+       {
+           "time": "2019-01-01",
+           "location": "Kendall Cinema",
+           "city": "Boston",
+           "description": "We saw On the Basis of Sex. You cried. I thought it was funny that you cried at such an uplifting movie."
+       },
+       {
+           "time": "2019-01-04",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "We made delicious mushroom risotto."
+       },
+       {
+           "time": "2019-01-09",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "We had lunch at Life Alive. You wanted to walk me home after work."
+       },
+       {
+           "time": "2019-01-12",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "We made scones and watched the Lives of Others."
+       },
+       {
+           "time": "2019-01-13",
+           "location": "Middlesex Fells",
+           "city": "Boston",
+           "description": "We went for a cold hike and spent our first weekend together."
+       },
+       {
+           "time": "2019-01-07",
+           "location": "CPL",
+           "city": "Boston",
+           "description": "We went to CPL to read. You had a bright blue cardigan and flower bowtie."
+       },
+       {
+           "time": "2019-01-19",
+           "location": "Frog Pond",
+           "city": "Boston",
+           "description": "We went ice skating with Sol and Brant."
+       },
+       {
+           "time": "2019-01-27",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "You were only in town for a day. We worked on my couch. It was cozy."
+       },
+       {
+           "time": "2019-02-02",
+           "location": "BSO",
+           "city": "Boston",
+           "description": "We went to the Symphony for the first time, saw Hayden, Mendelssohn, and Janacek."
+       },
+       {
+           "time": "2019-02-09",
+           "location": "Back Bay",
+           "city": "Boston",
+           "description": "We had dinner at Eataly and tried on glasses. While at Crate and Barrel, you said we should start a commune."
+       },
+       {
+           "time": "2019-02-15",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "You drew platonic solids. I read Houes of Leaves. We were both distracted."
+       },
+       {
+           "time": "2019-02-20",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "Post-Salon cuddles."
+       },
+       {
+           "time": "2019-02-23",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "We knitted together for the first time. I asked if you wanted to meet Allie. You seemed happy."
+       },
+       {
+           "time": "2019-02-24",
+           "location": "ICA",
+           "city": "Boston",
+           "description": "We went to see the animated shorts at the ICA. This is our second weekend together."
+       },
+       {
+           "time": "2019-02-28",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "You walked me to Mainly Burgers after the School of Computing opening."
+       },
+       {
+           "time": "2019-03-02",
+           "location": "ICA",
+           "city": "Boston",
+           "description": "We went to see the animated shorts at the ICA. This is our second weekend together."
+       },
+       {
+           "time": "2019-03-08",
+           "location": "MIT",
+           "city": "Boston",
+           "description": "Co-gen plant exhibit. I cried in your presence for the first time, but you made me laugh when you put my kangaroo onesie on."
+       },
+       {
+           "time": "2019-03-13",
+           "location": "Newton",
+           "city": "Boston",
+           "description": "We went for a long bike ride to Newton to see Cold War. You brought me a little potted flower that I named Ambroise."
+       },
+       {
+           "time": "2019-03-16",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "Craft night."
+       },
+       {
+           "time": "2019-03-17",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "You made me breakfats in bed. I took photos of you in drag."
+       },
+       {
+           "time": "2019-03-20",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "We read poetry. I liked listening to you read poetry."
+       },
+       {
+           "time": "2019-03-22",
+           "location": "Saloon",
+           "city": "Boston",
+           "description": "We got drinks at Saloon. Sometimes, when I'm drunk, you are the only person I can see."
+       },
+       {
+           "time": "2019-03-24",
+           "location": "Huntington Theater",
+           "city": "Boston",
+           "description": "We went to see Romeo + Juliet. You told me you thought you might love me the next day."
+       },
+       {
+           "time": "2019-04-02",
+           "location": "The Charles",
+           "city": "Boston",
+           "description": "We went for a walk along the Charles after you came back from Austin. I really wish I could have talked to you before you left. There was so much to process."
+       },
+       {
+           "time": "2019-04-06",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "We made the period birthday cake. You wrote me a poem. I thought it was cute that your way of reciprocating was so literal."
+       },
+       {
+           "time": "2019-04-07",
+           "location": "Sinclair",
+           "city": "Boston",
+           "description": "Emily King concert. I loved dancing with you."
+       },
+       {
+           "time": "2019-04-09",
+           "location": "Rotch Library",
+           "city": "Boston",
+           "description": " I had too much to do, so we worked in the architecture library."
+       },
+       {
+           "time": "2019-04-12",
+           "location": "Marriott",
+           "city": "Boston",
+           "description": "We stayed at the Marriott and had dinner in the North End."
+       },
+       {
+           "time": "2019-04-13",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "We walked by the river and planned our trip to Kentucky."
+       },
+       {
+           "time": "2019-04-16",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "You cut your hand and broke your toes. I wanted to come see you, but you were being very vague."
+       },
+       {
+           "time": "2019-04-19",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "We made noodle soup."
+       },
+       {
+           "time": "2019-04-20",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "We had breakfast with your roommates and then drew at the MFA."
+       },
+       {
+           "time": "2019-04-25",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "We cooked and planned Kentucky."
+       },
+       {
+           "time": "2019-04-27",
+           "location": "Memorial Church",
+           "city": "Boston",
+           "description": "We saw Handel's Judas Maccabaeus. It was your first oratorio."
+       },
+       {
+           "time": "2019-05-01",
+           "location": "Science Center",
+           "city": "Boston",
+           "description": "A Skeptical History of Numbers. You were skeptical."
+       },
+       {
+           "time": "2019-05-03",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "We made our DNA painting. It was so fun to paint together."
+       },
+       {
+           "time": "2019-05-07",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "We went for a run and did yoga."
+       },
+       {
+           "time": "2019-05-12",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "You were busy with classwork, so we made dinner while your code was compiling."
+       },
+       {
+           "time": "2019-05-17",
+           "location": "Riverside",
+           "city": "Boston",
+           "description": "You were rolling and we stayed up talking until 3am. You kept cupping my face and saying '...you...'."
+       },
+       {
+           "time": "2019-05-19",
+           "location": "Back Bay",
+           "city": "Boston",
+           "description": "We went suit shopping and saw Shadow."
+       },
+       {
+           "time": "2019-05-22",
+           "location": "Gather Here",
+           "city": "Boston",
+           "description": "We got material to make you a bow tie for the wedding."
+       },
+       {
+           "time": "2019-05-25",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "You made a bow tie."
+       },
+       {
+           "time": "2019-05-29",
+           "location": "Riverside - Fifth Ave",
+           "city": "New York",
+           "description": "You drove me to New York. When you drove in with the truck, you had a bag of homemade muffins for me. Despite a whole day of near misses, my first memory of the apartment is kissing you in the rain."
+       },
+       {
+           "time": "2019-05-30",
+           "location": "Speed Art Museum",
+           "city": "Louisville",
+           "description": "We went to the museum and saw a strange concert at the Louisville Palace Theater. I said your photo of the museum looked good, and you couldn't help glowing."
+       },
+       {
+           "time": "2019-05-31",
+           "location": "Kentucky Horse Park",
+           "city": "Louisville",
+           "description": "We rode some horses and got bourbon. On the way back, a man stopped us to talk to you about me as if I were inanimate. You were worried I'd be upset, but I thought it was funny."
+       },
+       {
+           "time": "2019-06-01",
+           "location": "Speed Art Museum",
+           "city": "Louiville",
+           "description": "We saw David and Elise get married, and we danced and danced. 'I didn't think you'd out-dance me', you said."
+       },
+       {
+           "time": "2019-06-02",
+           "location": "Louisville",
+           "city": "Louisville",
+           "description": "Our flight was delayed then cancelled, so we read White Teeth under a tree. You lost your glasses. You found your glasses. We sang along to 'We are the Champions' on repeat."
+       },
+       {
+           "time": "2019-06-03",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I read you my poem 'I Think I Might'."
+       },
+       {
+           "time": "2019-06-14",
+           "location": "South End",
+           "city": "Boston",
+           "description": "You picked me up from the train and we went out for a drink."
+       },
+       {
+           "time": "2019-06-15",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "We went for a bikeride on the Minuteman and saw an art show in Lexington."
+       },
+       {
+           "time": "2019-07-03",
+           "location": "Archer + Goat",
+           "city": "New York",
+           "description": "We met up with Tom + Pietro for a drink. You brought me paper tulips. 'He's a keeper,' a lady on the subway said."
+       },
+       {
+           "time": "2019-07-04",
+           "location": "Met",
+           "city": "New York",
+           "description": "We saw the Camp exhibit at the Met."
+       },
+       {
+           "time": "2019-07-05",
+           "location": "Met Cloisters",
+           "city": "New York",
+           "description": "We biked to the Met Cloisters and talked about the liturgical significance of plan proportions."
+       },
+       {
+           "time": "2019-06-06",
+           "location": "Beach",
+           "city": "New York",
+           "description": "We went to the Rockaway beach. I told you I loved you at Broadway Junction. We went to our first Sofar concert in Williamsburg. You really didn't like Williamsburg."
+       },
+       {
+           "time": "2019-07-07",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We saw the World Cup Final. I was pleasantly surprised that you made me enjoy sports."
+       },
+       {
+           "time": "2019-07-19",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "You met me at the train station with your bow tie. It's always so cute to see you at the end of the platform."
+       },
+       {
+           "time": "2019-07-20",
+           "location": "Castle Island",
+           "city": "Boston",
+           "description": "We went to the beach and had dinner with Brant + TC."
+       },
+       {
+           "time": "2019-07-21",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "You cut your hand again. We saw the Farewell at Kendall."
+       },
+       {
+           "time": "2019-08-03",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "We donated blood and nobody fainted, but we did use it as an excuse to laze in bed for hours and hours."
+       },
+       {
+           "time": "2019-08-04",
+           "location": "Peabody Essex Museum",
+           "city": "Salem",
+           "description": "We went to the Chinese house and then to the beautiful Crane beach. The sky was calming shades of summer pastel. You sure knew how to go on an adventure."
+       },
+       {
+           "time": "2019-08-05",
+           "location": "Mt Lafayette",
+           "city": "New Hampshire",
+           "description": "We went for a BIG hike. I was wiped, but I loved spending the day with you in nature."
+       },
+       {
+           "time": "2019-08-06",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "You were so tired, so we had Life Alive at home."
+       },
+       {
+           "time": "2019-08-15",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I picked you up from Penn Station."
+       },
+       {
+           "time": "2019-08-16",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We went to another Sofar concert, this time at the General Assembly. There was a chatty couple next to us, but I only wanted to talk to you."
+       },
+       {
+           "time": "2019-08-17",
+           "location": "Museum of Natural History",
+           "city": "New York",
+           "description": "We discussed how problematic the museum is and got delicious ice cream from Hudson Yards."
+       },
+       {
+           "time": "2019-08-18",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We went to Terranga for lunch. You missed your train, so we cooked dinner and I relished you staying the night."
+       },
+       {
+           "time": "2019-08-29",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "You had drinks with Drew. Lea and I picked you up from Chelsea."
+       },
+       {
+           "time": "2019-08-30",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We made dinner for the house. I told everyone a weird story about them."
+       },
+       {
+           "time": "2019-08-31",
+           "location": "Guggenheim",
+           "city": "New York",
+           "description": "We went to the Guggenheim with Lea and had dinner with Tom. The Mapplethorpe guide at the Guggenheim seemed so carefully articulate."
+       },
+       {
+           "time": "2019-09-01",
+           "location": "Downtown",
+           "city": "New York",
+           "description": "You picked out Foundation for me at the Housing Works book store. We took the ferry to Greenpoint for a drink."
+       },
+       {
+           "time": "2019-09-02",
+           "location": "Central Park",
+           "city": "New York",
+           "description": "We went for a walk around the park. I like it when you pull me in for a kiss."
+       },
+       {
+           "time": "2019-09-13",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "You picked me up from the train, looking cute as usual."
+       },
+       {
+           "time": "2019-09-14",
+           "location": "Mt Auburn Cemetery",
+           "city": "Boston",
+           "description": "We drew in the tower in the cemetery, and maybe a little more..."
+       },
+       {
+           "time": "2019-09-15",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "We lazed around in bed, as we tend to on Sundays."
+       },
+       {
+           "time": "2019-10-01",
+           "location": "Green St",
+           "city": "Boston",
+           "description": "We had dinner at Green Street before I had to give a presentation at the Broad. I wanted to make out in the conference room, but you said it was a one-way mirror."
+       },
+       {
+           "time": "2019-10-02",
+           "location": "Google Roof",
+           "city": "Boston",
+           "description": "We had lunch together on the Google Roof. Also, date 100!"
+       },
+       {
+           "time": "2019-10-03",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I picked you up from the train."
+       },
+       {
+           "time": "2019-10-04",
+           "location": "Harvard Club",
+           "city": "New York",
+           "description": "We hung out with Carlo at the Harvard Club and watchd Weekend at home."
+       },
+       {
+           "time": "2019-10-05",
+           "location": "Cooper Hewitt Museum",
+           "city": "New York",
+           "description": "We saw much biology at the museum, followed by the Paper Kites in a Jewish school. The venue was strange but the lighting was rather amazing. The Tall Heights instructed the audience to take out their phones and made musuic with the feedback."
+       },
+       {
+           "time": "2019-10-06",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We got some excellent bagels from Absolute Bagels."
+       },
+       {
+           "time": "2019-10-11",
+           "location": "South Station",
+           "city": "Boston",
+           "description": "You picked me up from train, and we had mediocre spaghetti close to the station. We dreamed about working together one day."
+       },
+       {
+           "time": "2019-10-12",
+           "location": "Harvard Art Museum",
+           "city": "Boston",
+           "description": "We saw the museum, went to Giulia, and then the BSO."
+       },
+       {
+           "time": "2019-10-13",
+           "location": "Cider Hill Farms",
+           "city": "Boston",
+           "description": "We went apple picking and ate at the Dumpling House (but not before some unspeakable times)."
+       },
+       {
+           "time": "2019-10-14",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "We spent all day in bed. At the Tatte by South Station, you said you would marry me. You had all the information you needed."
+       },
+       {
+           "time": "2019-10-24",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I picked you up from the train."
+       },
+       {
+           "time": "2019-10-25",
+           "location": "Harvard Club",
+           "city": "New York",
+           "description": "We drew some figures and ate tacos from the Middle East. I felt that you might be mad at me, but I didn't know why."
+       },
+       {
+           "time": "2019-10-26",
+           "location": "Queens",
+           "city": "New York",
+           "description": "We went on an expedition into Queens, followed by William's fall dinner. I felt really overwhelmed all day, but the dinner party made me feel better."
+       },
+       {
+           "time": "2019-10-27",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "Oh the joy of rolling around in bed all day..."
+       },
+       {
+           "time": "2019-11-08",
+           "location": "The Liaison Hotel",
+           "city": "DC",
+           "description": "Mmmmm..."
+       },
+       {
+           "time": "2019-11-09",
+           "location": "African American History Museum",
+           "city": "DC",
+           "description": "This was possibly the best museum experience I've had. Fortuitously, we ran into Tom & co."
+       },
+       {
+           "time": "2019-11-10",
+           "location": "National Art Gallery",
+           "city": "DC",
+           "description": "I got up early to touch the I.P.Pei building, only for us to return to it later. We had lovely drinks with Senseable friends and dinner at a surprisingly fancy tapas place."
+       },
+       {
+           "time": "2019-11-11",
+           "location": "Supreme Court",
+           "city": "DC",
+           "description": "You had a headache, so we stayed up and talked. We had breadfast with Scott and Jen. You seemed really happy when we returned to the hotel room. I loved seeing the Supreme Court. We scooted to lunch at Kramer Books."
+       },
+       {
+           "time": "2019-11-22",
+           "location": "Legal Sea Foods",
+           "city": "Boston",
+           "description": "We went for a drink and flipped through the book I made&nbsp;you."
+       },
+       {
+           "time": "2019-11-23",
+           "location": "BSO",
+           "city": "Boston",
+           "description": "We got hot chocolate and walked by the river. Saw an excellent performance at the BSO and had dessert with&nbsp;Rose."
+       },
+       {
+           "time": "2019-11-24",
+           "location": "Cherry",
+           "city": "Boston",
+           "description": "We watched the hospital episode of Modern Love and read Rob Kitchin's new book."
+       },
+       {
+           "time": "2019-12-05",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "Your train was delayed, so I met you at home. Thursday evenings are never enough time."
+       },
+       {
+           "time": "2019-12-06",
+           "location": "King's Theater",
+           "city": "New York",
+           "description": "We went to a She&Him Christmas concert. You said my dress looked like a present."
+       },
+       {
+           "time": "2019-12-07",
+           "location": "David Zwirner Gallery",
+           "city": "New York",
+           "description": "We saw an Yayoi Kusama exhibit, had coffee with TC, and you made me a delicious meal of squash and kale. We stayed up late talking, which is always my favorite."
+       },
+       {
+           "time": "2019-12-08",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I had to work all day, so you read in bed. Nonetheless, it was nice to have you around."
+       },
+       {
+           "time": "2019-12-09",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "You went to IBM, gave an excellent talk, and we went to the Harvard Club for Handel's Messiah. I loved singing but wish we could have sung next to each other."
+       },
+       {
+           "time": "2019-12-12",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I picked you up from the train, and we went to a delicious restaurant in East Harlem that had very slow service."
+       },
+       {
+           "time": "2019-12-13",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We made the same delicious dinner as last week and watched A Beautiful Life."
+       },
+       {
+           "time": "2019-12-14",
+           "location": "Sojo",
+           "city": "New York",
+           "description": "We played Limbo. I screamed a bunch. Sojo was wonderful. Your butt looked cute in my shorts."
+       },
+       {
+           "time": "2019-12-15",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We went ice skating, cuddled, and played Journey."
+       },
+       {
+           "time": "2019-12-30",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "To be continued..."
+       }
+   ]
+}
