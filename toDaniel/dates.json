@@ -1,5 +1,11 @@
 {
    "date": [
+        {
+            "time": "2018-07-27",
+            "location": "Tinder",
+            "city": "Boston",
+            "description": "You messaged me at 8:46AM and said 'Whew, I am *so* glad I'm not the only one swiping instead of sleeping. I hope you're not about ot tell me you study bat behavior at MIT and that was your coffee break.' "
+        },
        {
            "time": "2018-07-23",
            "location": "Clover",
@@ -598,13 +604,13 @@
            "time": "2019-10-01",
            "location": "Green St",
            "city": "Boston",
-           "description": "We had dinner at Green Street before I had to give a presentation at the Broad. I wanted to make out in the conference room, but you said it was a one-way mirror."
+           "description": "We had dinner at Green Street before I had to give a presentation at the Broad. I wanted to make out in the conference room, but you said it was a one-way mirror. Also, date 100!"
        },
        {
            "time": "2019-10-02",
            "location": "Google Roof",
            "city": "Boston",
-           "description": "We had lunch together on the Google Roof. Also, date 100!"
+           "description": "We had lunch together on the Google Roof."
        },
        {
            "time": "2019-10-03",
