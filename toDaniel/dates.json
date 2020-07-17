@@ -931,7 +931,253 @@
            "description": "We got delicious bagels from a new place and went ice skating. You showed me how to finish the thumb for my mitten. Neither of us wanted you to leave."
        },
        {
-           "time": "2019-03-20",
+           "time": "2019-03-16",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "The beginning of a 100-day quarantine together. Time melted during this time. "
+       },
+       {
+           "time": "2019-03-21",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We went to the garden in Central Park to see the blooming flowers. Stood in line at Whole Foods for a long time, and many shelves were empty. "
+       },
+       {
+           "time": "2019-03-26",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I had to work through lunch, so you brought me two vitamin gummies and said 'stay healthy.' The turtles started appearing in the pond. "
+       },
+       {
+           "time": "2019-03-27",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "The grocery store didn’t have tortillas, so we made tacos with scallion pancakes. "
+       },
+       {
+           "time": "2019-04-03",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We made masks."
+       },
+       {
+           "time": "2019-04-05",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We walked to Inwood Park and back. I kept thinking that you were upset with me for making you walk this far, but you weren't."
+       },
+       {
+           "time": "2019-04-06",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "Your butt hurt."
+       },
+       {
+           "time": "2019-04-07",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "You made me birthday decorations in the bathroom and made me a beautiful cake."
+       },
+       {
+           "time": "2019-04-09",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We clapped at 7pm for the health care workers."
+       },
+       {
+           "time": "2019-04-11",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We washed all of our groceries for the first time."
+       },
+       {
+           "time": "2019-04-12",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I started painting a portrait of you."
+       },
+       {
+           "time": "2019-04-13",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We made falafels. You got really stressed out, but the falafels were delicious."
+       },
+       {
+           "time": "2019-04-16",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I took a picture of your butt wearing my bra."
+       },
+       {
+           "time": "2019-04-17",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I got you beer called Raging Bitch."
+       },
+       {
+           "time": "2019-04-18",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "You finished knitting our smitten."
+       },
+       {
+           "time": "2019-04-25",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I drew a flower on your butt."
+       },
+       {
+           "time": "2019-04-26",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I photoshopped your Met Galla outfit. I also made you a card for your 42nd day here. In all of April, Google thinks that we went to all of 2 places."
+       },
+       {
+           "time": "2019-05-04",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We made our Mother’s Day cards."
+       },
+       {
+           "time": "2019-05-08",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "You shaved my head. We did face masks that looked like Mexican wrestlers. "
+       },
+       {
+           "time": "2019-05-09",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I shaved your head. We took lots of pictures."
+       },
+       {
+           "time": "2019-05-10",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I curled my hair and you really liked it."
+       },
+       {
+           "time": "2019-05-15",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We made pulled noodles with tomato and egg."
+       },
+       {
+           "time": "2019-05-17",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We made dumplings."
+       },
+       {
+           "time": "2019-05-20",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I drew Shoop. You thought shoop was stupid."
+       },
+       {
+           "time": "2019-05-22",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We made pulled noodles again for Aditi’s birthday. We played the phone game with Aditi and Avni."
+       },
+       {
+           "time": "2019-05-23",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We went to see the many flowers in the garden. I took pictures of you wearing my red scarf in the luscious walkway. You made popovers in your new popover tin."
+       },
+       {
+           "time": "2019-05-24",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I finished painting your portrait and made you take pictures with the iPad."
+       },
+       {
+           "time": "2019-05-30",
+           "location": "Washington Square Park",
+           "city": "New York",
+           "description": "We went to our first protest. Biked downtown, missed it, and then found it by the Times building."
+       },
+       {
+           "time": "2019-06-01",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "An 11-pm curfew went into place."
+       },
+       {
+           "time": "2019-06-03",
+           "location": "Gracie Mansion",
+           "city": "New York",
+           "description": "We went to a vigil at Gracie Mansion. Got caught in the rain afterwards. There was an 8pm curfew. I was nervous while walking back, but we got home just fine."
+       },
+       {
+           "time": "2019-06-05",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "You said you missed Boston while we watched the sunset. You had been saying this lots. It made me really sad so I went into my room."
+       },
+       {
+           "time": "2019-06-06",
+           "location": "East Meadow",
+           "city": "New York",
+           "description": "We went to a White Coats for Black Lives rally. We made our signs, and you didn’t like my spray painted BLM sign."
+       },
+       {
+           "time": "2019-06-07",
+           "location": "Harlem",
+           "city": "New York",
+           "description": "We went to a Harlem Family Walk protest. The music was really nice."
+       },
+       {
+           "time": "2019-06-14",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We drew our Father’s Day cards. I showed you how to make axons."
+       },
+       {
+           "time": "2019-06-17",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I made you a card for your 93rd day here. The fireworks are continuous."
+       },
+       {
+           "time": "2019-06-20",
+           "location": "Randall's Island",
+           "city": "New York",
+           "description": "We went to Randall’s Island. We talked about living together."
+       },
+       {
+           "time": "2019-06-23",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I listened in on your presentation on ThreadPoolExecutor."
+       },
+       {
+           "time": "2019-06-25",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "We recorded “I’m Yours” together."
+       },
+       {
+           "time": "2019-06-26",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "I made you cauliflower curry as a goodbye dinner."
+       },
+       {
+           "time": "2019-06-27",
+           "location": "Riverside Park",
+           "city": "New York",
+           "description": "We were supposed to go hiking, but the zip car couldn’t be found. Instead, we sang and went to the park by the river and had pizza. I got really drunk."
+       },
+       {
+           "time": "2019-06-27",
+           "location": "Fifth Ave",
+           "city": "New York",
+           "description": "There were many lovely dates that we had for which I didn't have a date record:times that you made eggplant parmesan, times that you solved my Grasshopper problems without ever having used it, times that you and I coded together, and the snuggle sessions every night as we strolled with Stephen Fry in a lavendar field in Provence."
+       },
+       {
+           "time": "2019-07-24",
            "location": "Fifth Ave",
            "city": "New York",
            "description": "To be continued..."
