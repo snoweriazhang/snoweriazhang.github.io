@@ -1,4 +1,0 @@
-AuthUserFile /app/toDaniel/.htpasswd
-AuthType Basic
-AuthName "Restricted Access"
-Require valid-user
