@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Data Through Design  |  Big Apple Recipes" content="">
+    <meta name="Snoweria Zhang" content="">
+    <link rel="shortcut icon" href="favicon.ico" type="image/ico">
+
+    <link rel="prefetch" href="assets/img/inhale/recipe.png">
+
+    <title>Data Through Design  |  Big Apple Recipes</title>
+
+    <!-- Bootstrap core CSS -->
+    <!-- <link href="assets/css/bootstrap.css" rel="stylesheet"> -->
+    <!-- CSS only -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"><!-- Custom styles for this template -->
+    <link href="assets/css/style.css" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600|Josefin+Slab" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,900&display=swap" rel="stylesheet">
+
+
+  </head>
+
+  <body id="tastepage">
+
+    <div class="navbar-wrapper">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <a class="navbar-brand" href="https://2020.datathroughdesign.com/">DATA THROUGH DESIGN</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav float-right">
+              <li class="nav-item">
+                <a class="nav-link" href="/">HOME </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="hear.html">HEAR</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#">TASTE</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="touch.html">TOUCH</a>
+              </li>
+            
+            </ul>
+          </div>
+      </nav>
+    </div>
+
+
+	<div id="headerwrap">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg">
+          <h1>Taste<br />New<br />York</h1>
+        </div>
+        <div class="col-lg">
+          <p>We know that New York's air is polluted, but detailed air quality data is frequently presented in units (e.g., "parts per billion") that are abstract and difficult to understand. The TASTE recipe takes the summer 2018 air pollution data and concocts a tea that captures the unique combination of pollutants in each neighborhood. Explore your area, make tea, and relax with #bigapplerecipes.</p>
+        </div>
+      </div>
+      <div class="row wrapper" id="main-links">
+        <div class="col">
+          <a href ="#data"><h2>Data</h2></a>
+        </div>
+        <div class="col">
+          <a href ="#recipe"><h2>Recipe</h2></a>
+        </div>
+        <div class="col">
+          <a href ="#performance"><h2>Performance</h2></a>
+        </div>
+      </div>
+    </div>
+  </div><! --/headerwrap -->
+
+  <div class="section" id="data">
+    <div class="container">
+      <div class="row">
+        <h3>Data</h3>
+      </div>
+      <div class="row">
+        <div id="map-content">
+          <svg>
+            <g class="map"></g>
+          </svg>
+        </div>
+    
+        <div id="tooltip">
+          <h3 id="tooltip-name"></h3>
+          <dl>
+            <dt>Ozone</dt>
+            <dd id="tooltip-ozone"></dd>
+            <dt>NO2</dt>
+            <dd id="tooltip-no2"></dd>
+            <dt>Fine Particulate Matter</dt>
+            <dd id="tooltip-fpm"></dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container" id="recipe">
+    <div class="row">
+      <h3>Recipe</h3>
+    </div>
+    <div class="row">
+      <div class="col">
+        <form>
+          <input type="text" id="search-bar" value="">
+        </form>
+        <div><ul id="search-results"></ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section" id="performance">
+    <div class="container">
+      <div class="row">
+        <h3>Performance</h3>
+      </div>
+      <div class="row">
+        <div class="col">
+          <img src=" width="100%">
+        </div>
+      </div>
+    </div>
+    <footer> <small>&copy; Copyright 2021, <a href="http://snoweria.com/">Snoweria Zhang</a></small> </footer> 
+  </div>
+
+  
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
+  <script src="https://d3js.org/queue.v1.min.js"></script>
+  <script src="https://d3js.org/d3-geo-projection.v3.min.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6"></script>  
+  <script>
+    queue()
+    .defer(d3.json, "assets/js/air-quality-by-community-district.json")
+    .await(function(error, districts){
+      const options = {
+        includeScore: true,
+        keys: ['Geo Place Name']
+      }
+
+      console.log(districts)
+
+      const fuse = new Fuse(districts, options)
+      const search_bar = document.getElementById("search-bar")
+      const search_results = document.getElementById("search-results")
+
+      search_bar.addEventListener("keyup", function(){
+        while (search_results.firstChild) {
+          search_results.removeChild(search_results.lastChild);
+        }
+
+        const results = fuse.search(this.value)
+        
+        console.log(results)
+
+        for (x of results){
+          const node = document.createElement("li");
+          var textnode = document.createTextNode(x.item["Geo Place Name"]);         // Create a text node
+          node.appendChild(textnode);                              // Append the text to <li>
+          document.getElementById("search-results").appendChild(node);
+        }
+
+
+      })
+     
+    })
+
+  </script>
+
+  <script>
+    var contentSize = document.querySelector("#map-content svg").getBoundingClientRect()
+
+    var projection = d3.geoMercator()
+    var geoGenerator = d3.geoPath().projection(projection)
+
+    queue()
+  .defer(d3.json, "assets/js/community_districts.geojson")
+  .defer(d3.json, "assets/js/air-quality-by-community-district.json")
+  .await(function(error, nyc, data) {
+      var datamap = {}
+      for (i = 0; i < data.length; ++i) {
+          datamap[data[i]["Geo Join ID"]] = data[i]
+      }
+
+      for (i = 0; i < nyc.features.length; ++i) {
+          var feature = nyc.features[i]
+          var data = datamap[feature.properties.BoroCD]
+          if (data) {
+              feature.properties.name = data["Geo Place Name"]
+
+              ozone = data.data["Ozone (O3)"]
+              feature.properties.ozone = ozone.value + " " + ozone.units
+
+              fpm = data.data["Fine Particulate Matter (PM2.5)"]
+              feature.properties.fpm = fpm.value + " " + fpm.units
+
+              no2 = data.data["Nitrogen Dioxide (NO2)"]
+              feature.properties.no2 = no2.value + " " + no2.units
+          }
+      }
+
+      projection.fitExtent([[0, 0], [contentSize.width, contentSize.height]], nyc)
+
+      var tooltip = d3.select("#tooltip")
+      var name = d3.select("#tooltip-name")
+      var ozonedd = d3.select("#tooltip-ozone")
+      var fpmdd = d3.select("#tooltip-fpm")
+      var no2dd = d3.select("#tooltip-no2")
+
+      d3.select('#map-content g.map')
+          .selectAll('path')
+          .data(nyc.features)
+          .enter()
+          .append('path')
+          .attr('d', geoGenerator)
+          .on("mouseover", function(d, i){
+              d3.select(this).style("fill-opacity","0.8");
+              if (d.properties.name) {
+                  name.text(d.properties.name)
+                  ozonedd.text(d.properties.ozone)
+                  fpmdd.text(d.properties.fpm)
+                  no2dd.text(d.properties.no2)
+                  return tooltip.style("visibility", "visible")
+              }
+          })
+          .on("mousemove", function(){
+              return tooltip.style(
+                  "top",
+                  (d3.event.pageY-10)+"px").style("left",(d3.event.pageX+10)+"px")
+          })
+          .on("mouseout", function(){
+            d3.select(this).style("fill-opacity","1")
+              return tooltip.style("visibility", "hidden")
+          })
+  })
+  </script>
+
+
+</body>
+</html>
